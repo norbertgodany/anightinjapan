@@ -22,7 +22,7 @@ defaults:
 email: norbert.godany@gmail.com
 description: A blog about a night Japan.
 baseurl: "/"
-url: ''
+url: 
 twitter_username: riklomas
 github_username: riklomas
 markdown: kramdown
